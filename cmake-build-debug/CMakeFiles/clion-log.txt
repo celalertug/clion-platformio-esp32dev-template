@@ -1,0 +1,4 @@
+/home/certug/jetbrains/clion-2017.3.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/certug/Desktop/t/clion-platformio-template-esp32
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/certug/Desktop/t/clion-platformio-template-esp32/cmake-build-debug

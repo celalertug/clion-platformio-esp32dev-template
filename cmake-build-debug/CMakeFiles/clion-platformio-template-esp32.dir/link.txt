@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/clion-platformio-template-esp32.dir/src/main.cpp.o CMakeFiles/clion-platformio-template-esp32.dir/lib/mylib/mylib.cpp.o  -o clion-platformio-template-esp32 
